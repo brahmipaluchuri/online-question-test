@@ -1,4 +1,7 @@
 import './globals.css'
+import 'bootstrap/dist/css/bootstrap.css';
+import 'nit-modal/dist/index.css';
+
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
